@@ -1,0 +1,4981 @@
+{
+ "source": "製程安全評估範本_HAZOP_v2.xlsx（LibreOffice 重算）",
+ "cases": [
+  {
+   "file": "case_1_g.xlsx",
+   "settings": {
+    "dpBasis": "gauge",
+    "multiMode": "sum"
+   },
+   "areas": [
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 0,
+     "name": "S1-A1"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": 501,
+     "pUp": 2,
+     "pDown": 0.5,
+     "name": "S1-A2"
+    },
+    {
+     "exo": "",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 0.3,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S1-A3"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "是",
+     "T": "",
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S1-A4"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S1-A5"
+    },
+    {
+     "exo": "是",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": "",
+     "vacuum": "",
+     "pUp": "",
+     "pDown": 1,
+     "name": "S1-A6"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S1-A7"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": 499,
+     "pUp": 4.1,
+     "pDown": 1,
+     "name": "S1-A8"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": 500,
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S1-A9"
+    },
+    {
+     "exo": "否",
+     "lel": "",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 4,
+     "pDown": 1,
+     "name": "S1-A10"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 50,
+     "P": 20,
+     "vacuum": "",
+     "pUp": 4.1,
+     "pDown": 1,
+     "name": "S1-A11"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 0.3,
+     "vacuum": "",
+     "pUp": 12,
+     "pDown": 1,
+     "name": "S1-A12"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 25,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S1-A13"
+    },
+    {
+     "exo": "否",
+     "lel": "",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 4,
+     "pDown": 1,
+     "name": "S1-A14"
+    },
+    {
+     "exo": "",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": 760,
+     "pUp": 2,
+     "pDown": 3,
+     "name": "S1-A15"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "是",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S1-A16"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "",
+     "T": 50,
+     "AIT": 400,
+     "P": 25,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S1-A17"
+    },
+    {
+     "exo": "是",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": "",
+     "name": "S1-A18"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 0.3,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S1-A19"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 8,
+     "pDown": 1,
+     "name": "S1-A20"
+    }
+   ],
+   "inventory": [
+    {
+     "substance": "環氧丙烷",
+     "qKg": 1500,
+     "conc": "",
+     "area": "S1-A1"
+    },
+    {
+     "substance": "氯",
+     "qKg": 600,
+     "conc": "",
+     "area": "S1-A3"
+    },
+    {
+     "substance": "氨",
+     "qKg": 5000,
+     "conc": "",
+     "area": "S1-A3"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 9999,
+     "conc": "",
+     "area": "S1-A3"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 1500,
+     "conc": "",
+     "area": "S1-A4"
+    },
+    {
+     "substance": "氯",
+     "qKg": 600,
+     "conc": "",
+     "area": "S1-A6"
+    },
+    {
+     "substance": "氨",
+     "qKg": 5000,
+     "conc": "",
+     "area": "S1-A6"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 9999,
+     "conc": "",
+     "area": "S1-A6"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 2000,
+     "conc": "",
+     "area": "S1-A7"
+    },
+    {
+     "substance": "光氣",
+     "qKg": 10,
+     "conc": "",
+     "area": "S1-A8"
+    },
+    {
+     "substance": "氯",
+     "qKg": 2000,
+     "conc": 50,
+     "area": "S1-A11"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 2001,
+     "conc": 80,
+     "area": "S1-A12"
+    },
+    {
+     "substance": "矽甲烷",
+     "qKg": 5,
+     "conc": "",
+     "area": "S1-A14"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 2000,
+     "conc": "",
+     "area": "S1-A15"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 70729,
+     "conc": "",
+     "area": "S1-A16"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 4250,
+     "conc": 80,
+     "area": "S1-A17"
+    },
+    {
+     "substance": "氯",
+     "qKg": 2000,
+     "conc": 50,
+     "area": "S1-A18"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 4250,
+     "conc": 80,
+     "area": "S1-A19"
+    },
+    {
+     "substance": "甲苯",
+     "qKg": 54320,
+     "conc": "",
+     "area": "S1-A20"
+    }
+   ],
+   "expected": [
+    {
+     "Q": 1500,
+     "sum": 0.15,
+     "max": 0.15,
+     "c1": "否",
+     "c5": "否",
+     "ratio": "∞",
+     "triggers": "⑦",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 4,
+     "triggers": "⑦",
+     "missing": "存量表未填",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 5600,
+     "sum": 0.22,
+     "max": 0.12,
+     "c1": "是",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "①",
+     "missing": "高放熱",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 1500,
+     "sum": 0.15,
+     "max": 0.15,
+     "c1": "否",
+     "c5": "是",
+     "ratio": 2,
+     "triggers": "⑤",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "",
+     "missing": "存量表未填",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 5600,
+     "sum": 0.22,
+     "max": 0.12,
+     "c1": "是",
+     "c5": "否",
+     "ratio": "",
+     "triggers": "①②",
+     "missing": "最大操作壓力、上下游壓力",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 2000,
+     "sum": 0.2,
+     "max": 0.2,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "",
+     "missing": "",
+     "result": "—"
+    },
+    {
+     "Q": 10,
+     "sum": 0.1,
+     "max": 0.1,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 4.1,
+     "triggers": "⑥⑦",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "⑥",
+     "missing": "存量表未填",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 4,
+     "triggers": "⑦",
+     "missing": "存量表未填、LEL～UEL",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 1000,
+     "sum": 0.2,
+     "max": 0.2,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 4.1,
+     "triggers": "⑥⑦",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 1600.8,
+     "sum": 0.16008,
+     "max": 0.16008,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 12,
+     "triggers": "⑦",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "⑥",
+     "missing": "存量表未填、熱不安定",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 5,
+     "sum": 0.1,
+     "max": 0.1,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 4,
+     "triggers": "⑦",
+     "missing": "LEL～UEL",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 2000,
+     "sum": 0.2,
+     "max": 0.2,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 0.666666667,
+     "triggers": "",
+     "missing": "高放熱",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "④",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 3400,
+     "sum": 0.34,
+     "max": 0.34,
+     "c1": "是",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "①⑥",
+     "missing": "易燃性氣體",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 1000,
+     "sum": 0.2,
+     "max": 0.2,
+     "c1": "否",
+     "c5": "否",
+     "ratio": "",
+     "triggers": "②",
+     "missing": "上下游壓力",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 3400,
+     "sum": 0.34,
+     "max": 0.34,
+     "c1": "是",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "①",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 8,
+     "triggers": "⑦",
+     "missing": "易燃性氣體",
+     "result": "重大潛在危害"
+    }
+   ]
+  },
+  {
+   "file": "case_1_a.xlsx",
+   "settings": {
+    "dpBasis": "absolute",
+    "multiMode": "max"
+   },
+   "areas": [
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 0,
+     "name": "S1-A1"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": 501,
+     "pUp": 2,
+     "pDown": 0.5,
+     "name": "S1-A2"
+    },
+    {
+     "exo": "",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 0.3,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S1-A3"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "是",
+     "T": "",
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S1-A4"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S1-A5"
+    },
+    {
+     "exo": "是",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": "",
+     "vacuum": "",
+     "pUp": "",
+     "pDown": 1,
+     "name": "S1-A6"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S1-A7"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": 499,
+     "pUp": 4.1,
+     "pDown": 1,
+     "name": "S1-A8"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": 500,
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S1-A9"
+    },
+    {
+     "exo": "否",
+     "lel": "",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 4,
+     "pDown": 1,
+     "name": "S1-A10"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 50,
+     "P": 20,
+     "vacuum": "",
+     "pUp": 4.1,
+     "pDown": 1,
+     "name": "S1-A11"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 0.3,
+     "vacuum": "",
+     "pUp": 12,
+     "pDown": 1,
+     "name": "S1-A12"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 25,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S1-A13"
+    },
+    {
+     "exo": "否",
+     "lel": "",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 4,
+     "pDown": 1,
+     "name": "S1-A14"
+    },
+    {
+     "exo": "",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": 760,
+     "pUp": 2,
+     "pDown": 3,
+     "name": "S1-A15"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "是",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S1-A16"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "",
+     "T": 50,
+     "AIT": 400,
+     "P": 25,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S1-A17"
+    },
+    {
+     "exo": "是",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": "",
+     "name": "S1-A18"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 0.3,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S1-A19"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 8,
+     "pDown": 1,
+     "name": "S1-A20"
+    }
+   ],
+   "inventory": [
+    {
+     "substance": "環氧丙烷",
+     "qKg": 1500,
+     "conc": "",
+     "area": "S1-A1"
+    },
+    {
+     "substance": "氯",
+     "qKg": 600,
+     "conc": "",
+     "area": "S1-A3"
+    },
+    {
+     "substance": "氨",
+     "qKg": 5000,
+     "conc": "",
+     "area": "S1-A3"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 9999,
+     "conc": "",
+     "area": "S1-A3"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 1500,
+     "conc": "",
+     "area": "S1-A4"
+    },
+    {
+     "substance": "氯",
+     "qKg": 600,
+     "conc": "",
+     "area": "S1-A6"
+    },
+    {
+     "substance": "氨",
+     "qKg": 5000,
+     "conc": "",
+     "area": "S1-A6"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 9999,
+     "conc": "",
+     "area": "S1-A6"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 2000,
+     "conc": "",
+     "area": "S1-A7"
+    },
+    {
+     "substance": "光氣",
+     "qKg": 10,
+     "conc": "",
+     "area": "S1-A8"
+    },
+    {
+     "substance": "氯",
+     "qKg": 2000,
+     "conc": 50,
+     "area": "S1-A11"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 2001,
+     "conc": 80,
+     "area": "S1-A12"
+    },
+    {
+     "substance": "矽甲烷",
+     "qKg": 5,
+     "conc": "",
+     "area": "S1-A14"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 2000,
+     "conc": "",
+     "area": "S1-A15"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 70729,
+     "conc": "",
+     "area": "S1-A16"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 4250,
+     "conc": 80,
+     "area": "S1-A17"
+    },
+    {
+     "substance": "氯",
+     "qKg": 2000,
+     "conc": 50,
+     "area": "S1-A18"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 4250,
+     "conc": 80,
+     "area": "S1-A19"
+    },
+    {
+     "substance": "甲苯",
+     "qKg": 54320,
+     "conc": "",
+     "area": "S1-A20"
+    }
+   ],
+   "expected": [
+    {
+     "Q": 1500,
+     "sum": 0.15,
+     "max": 0.15,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 2.935733643,
+     "triggers": "",
+     "missing": "",
+     "result": "—"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 1.978345943,
+     "triggers": "",
+     "missing": "存量表未填",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 5600,
+     "sum": 0.22,
+     "max": 0.12,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "",
+     "missing": "高放熱",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 1500,
+     "sum": 0.15,
+     "max": 0.15,
+     "c1": "否",
+     "c5": "是",
+     "ratio": 1.49183553,
+     "triggers": "⑤",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "",
+     "missing": "存量表未填",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 5600,
+     "sum": 0.22,
+     "max": 0.12,
+     "c1": "否",
+     "c5": "否",
+     "ratio": "",
+     "triggers": "②",
+     "missing": "最大操作壓力、上下游壓力",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 2000,
+     "sum": 0.2,
+     "max": 0.2,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "",
+     "missing": "",
+     "result": "—"
+    },
+    {
+     "Q": 10,
+     "sum": 0.1,
+     "max": 0.1,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 2.524690144,
+     "triggers": "⑥",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "⑥",
+     "missing": "存量表未填",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 2.475506591,
+     "triggers": "",
+     "missing": "存量表未填、LEL～UEL",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 1000,
+     "sum": 0.2,
+     "max": 0.2,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 2.524690144,
+     "triggers": "⑥",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 1600.8,
+     "sum": 0.16008,
+     "max": 0.16008,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 6.410190832,
+     "triggers": "⑦",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "⑥",
+     "missing": "存量表未填、熱不安定",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 5,
+     "sum": 0.1,
+     "max": 0.1,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 2.475506591,
+     "triggers": "",
+     "missing": "LEL～UEL",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 2000,
+     "sum": 0.2,
+     "max": 0.2,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 0.752057919,
+     "triggers": "",
+     "missing": "高放熱",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "④",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 3400,
+     "sum": 0.34,
+     "max": 0.34,
+     "c1": "是",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "①⑥",
+     "missing": "易燃性氣體",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 1000,
+     "sum": 0.2,
+     "max": 0.2,
+     "c1": "否",
+     "c5": "否",
+     "ratio": "",
+     "triggers": "②",
+     "missing": "上下游壓力",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 3400,
+     "sum": 0.34,
+     "max": 0.34,
+     "c1": "是",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "①",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 4.442848711,
+     "triggers": "⑦",
+     "missing": "易燃性氣體",
+     "result": "重大潛在危害"
+    }
+   ]
+  },
+  {
+   "file": "case_2_g.xlsx",
+   "settings": {
+    "dpBasis": "gauge",
+    "multiMode": "sum"
+   },
+   "areas": [
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S2-A1"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S2-A2"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "是",
+     "T": "",
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 0,
+     "name": "S2-A3"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 51,
+     "P": 1,
+     "vacuum": 100,
+     "pUp": 12,
+     "pDown": 1,
+     "name": "S2-A4"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": "",
+     "P": 0.71,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S2-A5"
+    },
+    {
+     "exo": "是",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S2-A6"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 12,
+     "pDown": 1,
+     "name": "S2-A7"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": 760,
+     "pUp": 8,
+     "pDown": 1,
+     "name": "S2-A8"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 19.9,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S2-A9"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": "",
+     "P": 1,
+     "vacuum": "",
+     "pUp": "",
+     "pDown": 1,
+     "name": "S2-A10"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": 499,
+     "pUp": "",
+     "pDown": 2,
+     "name": "S2-A11"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": 500,
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S2-A12"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 12,
+     "pDown": 3,
+     "name": "S2-A13"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "是",
+     "T": 50,
+     "AIT": 49,
+     "P": 1,
+     "vacuum": 500,
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S2-A14"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S2-A15"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 0.5,
+     "name": "S2-A16"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S2-A17"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "是",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S2-A18"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S2-A19"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "是",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S2-A20"
+    }
+   ],
+   "inventory": [
+    {
+     "substance": "氯",
+     "qKg": 500,
+     "conc": "",
+     "area": "S2-A2"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 6000,
+     "conc": 50,
+     "area": "S2-A3"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 47713,
+     "conc": "",
+     "area": "S2-A4"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 2000,
+     "conc": "",
+     "area": "S2-A5"
+    },
+    {
+     "substance": "氯",
+     "qKg": 500,
+     "conc": "",
+     "area": "S2-A6"
+    },
+    {
+     "substance": "氫氣",
+     "qKg": 400,
+     "conc": "",
+     "area": "S2-A7"
+    },
+    {
+     "substance": "氨",
+     "qKg": 4000,
+     "conc": "",
+     "area": "S2-A8"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 4250,
+     "conc": 50,
+     "area": "S2-A9"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 4250,
+     "conc": 80,
+     "area": "S2-A10"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 80786,
+     "conc": "",
+     "area": "S2-A11"
+    },
+    {
+     "substance": "光氣",
+     "qKg": 10,
+     "conc": "",
+     "area": "S2-A12"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 2000,
+     "conc": "",
+     "area": "S2-A13"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 13915,
+     "conc": "",
+     "area": "S2-A14"
+    },
+    {
+     "substance": "氯",
+     "qKg": 2000,
+     "conc": 50,
+     "area": "S2-A15"
+    },
+    {
+     "substance": "氯",
+     "qKg": 600,
+     "conc": "",
+     "area": "S2-A16"
+    },
+    {
+     "substance": "氨",
+     "qKg": 5000,
+     "conc": "",
+     "area": "S2-A16"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 9999,
+     "conc": "",
+     "area": "S2-A16"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 34845,
+     "conc": "",
+     "area": "S2-A17"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 6000,
+     "conc": "",
+     "area": "S2-A18"
+    },
+    {
+     "substance": "氨",
+     "qKg": 4000,
+     "conc": "",
+     "area": "S2-A19"
+    }
+   ],
+   "expected": [
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "",
+     "missing": "存量表未填",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 500,
+     "sum": 0.1,
+     "max": 0.1,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "",
+     "missing": "",
+     "result": "—"
+    },
+    {
+     "Q": 3000,
+     "sum": 0.3,
+     "max": 0.3,
+     "c1": "是",
+     "c5": "是",
+     "ratio": "∞",
+     "triggers": "①⑤⑦",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 12,
+     "triggers": "⑥⑦",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 2000,
+     "sum": 0.2,
+     "max": 0.2,
+     "c1": "否",
+     "c5": "",
+     "ratio": 2,
+     "triggers": "",
+     "missing": "T／A.I.T.",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 500,
+     "sum": 0.1,
+     "max": 0.1,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "②",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 400,
+     "sum": 0.08,
+     "max": 0.08,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 12,
+     "triggers": "⑦",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 4000,
+     "sum": 0.08,
+     "max": 0.08,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 8,
+     "triggers": "⑦",
+     "missing": "熱不安定",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 2125,
+     "sum": 0.2125,
+     "max": 0.2125,
+     "c1": "是",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "①",
+     "missing": "熱不安定",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 3400,
+     "sum": 0.34,
+     "max": 0.34,
+     "c1": "是",
+     "c5": "",
+     "ratio": "",
+     "triggers": "①",
+     "missing": "T／A.I.T.、上下游壓力",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": "",
+     "triggers": "⑥",
+     "missing": "上下游壓力",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 10,
+     "sum": 0.1,
+     "max": 0.1,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "⑥",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 2000,
+     "sum": 0.2,
+     "max": 0.2,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 4,
+     "triggers": "⑦",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "是",
+     "ratio": 2,
+     "triggers": "⑤⑥",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 1000,
+     "sum": 0.2,
+     "max": 0.2,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "",
+     "missing": "",
+     "result": "—"
+    },
+    {
+     "Q": 5600,
+     "sum": 0.22,
+     "max": 0.12,
+     "c1": "是",
+     "c5": "否",
+     "ratio": 4,
+     "triggers": "①⑦",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "",
+     "missing": "",
+     "result": "—"
+    },
+    {
+     "Q": 6000,
+     "sum": 0.6,
+     "max": 0.6,
+     "c1": "是",
+     "c5": "是",
+     "ratio": 2,
+     "triggers": "①⑤",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 4000,
+     "sum": 0.08,
+     "max": 0.08,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "",
+     "missing": "",
+     "result": "—"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "是",
+     "ratio": 2,
+     "triggers": "⑤",
+     "missing": "存量表未填",
+     "result": "重大潛在危害"
+    }
+   ]
+  },
+  {
+   "file": "case_2_a.xlsx",
+   "settings": {
+    "dpBasis": "absolute",
+    "multiMode": "max"
+   },
+   "areas": [
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S2-A1"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S2-A2"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "是",
+     "T": "",
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 0,
+     "name": "S2-A3"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 51,
+     "P": 1,
+     "vacuum": 100,
+     "pUp": 12,
+     "pDown": 1,
+     "name": "S2-A4"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": "",
+     "P": 0.71,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S2-A5"
+    },
+    {
+     "exo": "是",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S2-A6"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 12,
+     "pDown": 1,
+     "name": "S2-A7"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": 760,
+     "pUp": 8,
+     "pDown": 1,
+     "name": "S2-A8"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 19.9,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S2-A9"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": "",
+     "P": 1,
+     "vacuum": "",
+     "pUp": "",
+     "pDown": 1,
+     "name": "S2-A10"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": 499,
+     "pUp": "",
+     "pDown": 2,
+     "name": "S2-A11"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": 500,
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S2-A12"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 12,
+     "pDown": 3,
+     "name": "S2-A13"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "是",
+     "T": 50,
+     "AIT": 49,
+     "P": 1,
+     "vacuum": 500,
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S2-A14"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S2-A15"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 0.5,
+     "name": "S2-A16"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S2-A17"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "是",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S2-A18"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S2-A19"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "是",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S2-A20"
+    }
+   ],
+   "inventory": [
+    {
+     "substance": "氯",
+     "qKg": 500,
+     "conc": "",
+     "area": "S2-A2"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 6000,
+     "conc": 50,
+     "area": "S2-A3"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 47713,
+     "conc": "",
+     "area": "S2-A4"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 2000,
+     "conc": "",
+     "area": "S2-A5"
+    },
+    {
+     "substance": "氯",
+     "qKg": 500,
+     "conc": "",
+     "area": "S2-A6"
+    },
+    {
+     "substance": "氫氣",
+     "qKg": 400,
+     "conc": "",
+     "area": "S2-A7"
+    },
+    {
+     "substance": "氨",
+     "qKg": 4000,
+     "conc": "",
+     "area": "S2-A8"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 4250,
+     "conc": 50,
+     "area": "S2-A9"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 4250,
+     "conc": 80,
+     "area": "S2-A10"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 80786,
+     "conc": "",
+     "area": "S2-A11"
+    },
+    {
+     "substance": "光氣",
+     "qKg": 10,
+     "conc": "",
+     "area": "S2-A12"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 2000,
+     "conc": "",
+     "area": "S2-A13"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 13915,
+     "conc": "",
+     "area": "S2-A14"
+    },
+    {
+     "substance": "氯",
+     "qKg": 2000,
+     "conc": 50,
+     "area": "S2-A15"
+    },
+    {
+     "substance": "氯",
+     "qKg": 600,
+     "conc": "",
+     "area": "S2-A16"
+    },
+    {
+     "substance": "氨",
+     "qKg": 5000,
+     "conc": "",
+     "area": "S2-A16"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 9999,
+     "conc": "",
+     "area": "S2-A16"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 34845,
+     "conc": "",
+     "area": "S2-A17"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 6000,
+     "conc": "",
+     "area": "S2-A18"
+    },
+    {
+     "substance": "氨",
+     "qKg": 4000,
+     "conc": "",
+     "area": "S2-A19"
+    }
+   ],
+   "expected": [
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "",
+     "missing": "存量表未填",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 500,
+     "sum": 0.1,
+     "max": 0.1,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "",
+     "missing": "",
+     "result": "—"
+    },
+    {
+     "Q": 3000,
+     "sum": 0.3,
+     "max": 0.3,
+     "c1": "是",
+     "c5": "是",
+     "ratio": 2.935733643,
+     "triggers": "①⑤",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 6.410190832,
+     "triggers": "⑥⑦",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 2000,
+     "sum": 0.2,
+     "max": 0.2,
+     "c1": "否",
+     "c5": "",
+     "ratio": 1.49183553,
+     "triggers": "",
+     "missing": "T／A.I.T.",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 500,
+     "sum": 0.1,
+     "max": 0.1,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "②",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 400,
+     "sum": 0.08,
+     "max": 0.08,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 6.410190832,
+     "triggers": "⑦",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 4000,
+     "sum": 0.08,
+     "max": 0.08,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 4.442848711,
+     "triggers": "⑦",
+     "missing": "熱不安定",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 2125,
+     "sum": 0.2125,
+     "max": 0.2125,
+     "c1": "是",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "①",
+     "missing": "熱不安定",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 3400,
+     "sum": 0.34,
+     "max": 0.34,
+     "c1": "是",
+     "c5": "",
+     "ratio": "",
+     "triggers": "①",
+     "missing": "T／A.I.T.、上下游壓力",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": "",
+     "triggers": "⑥",
+     "missing": "上下游壓力",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 10,
+     "sum": 0.1,
+     "max": 0.1,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "⑥",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 2000,
+     "sum": 0.2,
+     "max": 0.2,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 3.231478727,
+     "triggers": "",
+     "missing": "",
+     "result": "—"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "是",
+     "ratio": 1.49183553,
+     "triggers": "⑤⑥",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 1000,
+     "sum": 0.2,
+     "max": 0.2,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "",
+     "missing": "",
+     "result": "—"
+    },
+    {
+     "Q": 5600,
+     "sum": 0.22,
+     "max": 0.12,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 1.978345943,
+     "triggers": "",
+     "missing": "",
+     "result": "—"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "",
+     "missing": "",
+     "result": "—"
+    },
+    {
+     "Q": 6000,
+     "sum": 0.6,
+     "max": 0.6,
+     "c1": "是",
+     "c5": "是",
+     "ratio": 1.49183553,
+     "triggers": "①⑤",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 4000,
+     "sum": 0.08,
+     "max": 0.08,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "",
+     "missing": "",
+     "result": "—"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "是",
+     "ratio": 1.49183553,
+     "triggers": "⑤",
+     "missing": "存量表未填",
+     "result": "重大潛在危害"
+    }
+   ]
+  },
+  {
+   "file": "case_3_g.xlsx",
+   "settings": {
+    "dpBasis": "gauge",
+    "multiMode": "sum"
+   },
+   "areas": [
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 3,
+     "name": "S3-A1"
+    },
+    {
+     "exo": "否",
+     "lel": "是",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": 760,
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S3-A2"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 3,
+     "name": "S3-A3"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "",
+     "flammableGas": "是",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 0,
+     "name": "S3-A4"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S3-A5"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": 760,
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S3-A6"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 0,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 0.5,
+     "name": "S3-A7"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S3-A8"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 450,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S3-A9"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 50,
+     "P": "",
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S3-A10"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S3-A11"
+    },
+    {
+     "exo": "否",
+     "lel": "",
+     "unstable": "是",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 51,
+     "P": 0.71,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S3-A12"
+    },
+    {
+     "exo": "否",
+     "lel": "",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S3-A13"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": "",
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S3-A14"
+    },
+    {
+     "exo": "",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": "",
+     "name": "S3-A15"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 4,
+     "pDown": 1,
+     "name": "S3-A16"
+    },
+    {
+     "exo": "是",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S3-A17"
+    },
+    {
+     "exo": "",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 4,
+     "pDown": 1,
+     "name": "S3-A18"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "是",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S3-A19"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S3-A20"
+    }
+   ],
+   "inventory": [
+    {
+     "substance": "氨",
+     "qKg": 4000,
+     "conc": "",
+     "area": "S3-A1"
+    },
+    {
+     "substance": "甲苯",
+     "qKg": 33995,
+     "conc": "",
+     "area": "S3-A2"
+    },
+    {
+     "substance": "甲苯",
+     "qKg": 52054,
+     "conc": "",
+     "area": "S3-A3"
+    },
+    {
+     "substance": "氫氣",
+     "qKg": 400,
+     "conc": "",
+     "area": "S3-A4"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 1500,
+     "conc": "",
+     "area": "S3-A5"
+    },
+    {
+     "substance": "氯",
+     "qKg": 600,
+     "conc": "",
+     "area": "S3-A6"
+    },
+    {
+     "substance": "氨",
+     "qKg": 5000,
+     "conc": "",
+     "area": "S3-A6"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 9999,
+     "conc": "",
+     "area": "S3-A6"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 1500,
+     "conc": "",
+     "area": "S3-A7"
+    },
+    {
+     "substance": "矽甲烷",
+     "qKg": 5,
+     "conc": "",
+     "area": "S3-A8"
+    },
+    {
+     "substance": "甲苯",
+     "qKg": 55201,
+     "conc": "",
+     "area": "S3-A9"
+    },
+    {
+     "substance": "光氣",
+     "qKg": 10,
+     "conc": "",
+     "area": "S3-A10"
+    },
+    {
+     "substance": "甲苯",
+     "qKg": 79406,
+     "conc": "",
+     "area": "S3-A11"
+    },
+    {
+     "substance": "甲苯",
+     "qKg": 11603,
+     "conc": "",
+     "area": "S3-A12"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 1500,
+     "conc": "",
+     "area": "S3-A13"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 5793,
+     "conc": "",
+     "area": "S3-A14"
+    },
+    {
+     "substance": "氯",
+     "qKg": 2000,
+     "conc": 50,
+     "area": "S3-A15"
+    },
+    {
+     "substance": "氫氣",
+     "qKg": 400,
+     "conc": "",
+     "area": "S3-A18"
+    },
+    {
+     "substance": "氨",
+     "qKg": 4000,
+     "conc": "",
+     "area": "S3-A19"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 4250,
+     "conc": 80,
+     "area": "S3-A20"
+    }
+   ],
+   "expected": [
+    {
+     "Q": 4000,
+     "sum": 0.08,
+     "max": 0.08,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 0.666666667,
+     "triggers": "",
+     "missing": "",
+     "result": "—"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "③",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 0.666666667,
+     "triggers": "",
+     "missing": "易燃性氣體",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 400,
+     "sum": 0.08,
+     "max": 0.08,
+     "c1": "否",
+     "c5": "是",
+     "ratio": "∞",
+     "triggers": "⑤⑦",
+     "missing": "熱不安定",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 1500,
+     "sum": 0.15,
+     "max": 0.15,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "",
+     "missing": "",
+     "result": "—"
+    },
+    {
+     "Q": 5600,
+     "sum": 0.22,
+     "max": 0.12,
+     "c1": "是",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "①",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 1500,
+     "sum": 0.15,
+     "max": 0.15,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 4,
+     "triggers": "⑦",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 5,
+     "sum": 0.1,
+     "max": 0.1,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "",
+     "missing": "",
+     "result": "—"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "是",
+     "ratio": 2,
+     "triggers": "⑤",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 10,
+     "sum": 0.1,
+     "max": 0.1,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "",
+     "missing": "最大操作壓力",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "",
+     "missing": "",
+     "result": "—"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "④",
+     "missing": "LEL～UEL",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 1500,
+     "sum": 0.15,
+     "max": 0.15,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "",
+     "missing": "LEL～UEL",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "",
+     "missing": "最大操作壓力",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 1000,
+     "sum": 0.2,
+     "max": 0.2,
+     "c1": "否",
+     "c5": "否",
+     "ratio": "",
+     "triggers": "",
+     "missing": "高放熱、上下游壓力",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 4,
+     "triggers": "⑦",
+     "missing": "存量表未填",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "②",
+     "missing": "存量表未填",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 400,
+     "sum": 0.08,
+     "max": 0.08,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 4,
+     "triggers": "⑦",
+     "missing": "高放熱",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 4000,
+     "sum": 0.08,
+     "max": 0.08,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "④",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 3400,
+     "sum": 0.34,
+     "max": 0.34,
+     "c1": "是",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "①",
+     "missing": "熱不安定",
+     "result": "重大潛在危害"
+    }
+   ]
+  },
+  {
+   "file": "case_3_a.xlsx",
+   "settings": {
+    "dpBasis": "absolute",
+    "multiMode": "max"
+   },
+   "areas": [
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 3,
+     "name": "S3-A1"
+    },
+    {
+     "exo": "否",
+     "lel": "是",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": 760,
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S3-A2"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 3,
+     "name": "S3-A3"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "",
+     "flammableGas": "是",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 0,
+     "name": "S3-A4"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S3-A5"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": 760,
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S3-A6"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 0,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 0.5,
+     "name": "S3-A7"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S3-A8"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 450,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S3-A9"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 50,
+     "P": "",
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S3-A10"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S3-A11"
+    },
+    {
+     "exo": "否",
+     "lel": "",
+     "unstable": "是",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 51,
+     "P": 0.71,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S3-A12"
+    },
+    {
+     "exo": "否",
+     "lel": "",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S3-A13"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": "",
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S3-A14"
+    },
+    {
+     "exo": "",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": "",
+     "name": "S3-A15"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 4,
+     "pDown": 1,
+     "name": "S3-A16"
+    },
+    {
+     "exo": "是",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S3-A17"
+    },
+    {
+     "exo": "",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 4,
+     "pDown": 1,
+     "name": "S3-A18"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "是",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S3-A19"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S3-A20"
+    }
+   ],
+   "inventory": [
+    {
+     "substance": "氨",
+     "qKg": 4000,
+     "conc": "",
+     "area": "S3-A1"
+    },
+    {
+     "substance": "甲苯",
+     "qKg": 33995,
+     "conc": "",
+     "area": "S3-A2"
+    },
+    {
+     "substance": "甲苯",
+     "qKg": 52054,
+     "conc": "",
+     "area": "S3-A3"
+    },
+    {
+     "substance": "氫氣",
+     "qKg": 400,
+     "conc": "",
+     "area": "S3-A4"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 1500,
+     "conc": "",
+     "area": "S3-A5"
+    },
+    {
+     "substance": "氯",
+     "qKg": 600,
+     "conc": "",
+     "area": "S3-A6"
+    },
+    {
+     "substance": "氨",
+     "qKg": 5000,
+     "conc": "",
+     "area": "S3-A6"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 9999,
+     "conc": "",
+     "area": "S3-A6"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 1500,
+     "conc": "",
+     "area": "S3-A7"
+    },
+    {
+     "substance": "矽甲烷",
+     "qKg": 5,
+     "conc": "",
+     "area": "S3-A8"
+    },
+    {
+     "substance": "甲苯",
+     "qKg": 55201,
+     "conc": "",
+     "area": "S3-A9"
+    },
+    {
+     "substance": "光氣",
+     "qKg": 10,
+     "conc": "",
+     "area": "S3-A10"
+    },
+    {
+     "substance": "甲苯",
+     "qKg": 79406,
+     "conc": "",
+     "area": "S3-A11"
+    },
+    {
+     "substance": "甲苯",
+     "qKg": 11603,
+     "conc": "",
+     "area": "S3-A12"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 1500,
+     "conc": "",
+     "area": "S3-A13"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 5793,
+     "conc": "",
+     "area": "S3-A14"
+    },
+    {
+     "substance": "氯",
+     "qKg": 2000,
+     "conc": 50,
+     "area": "S3-A15"
+    },
+    {
+     "substance": "氫氣",
+     "qKg": 400,
+     "conc": "",
+     "area": "S3-A18"
+    },
+    {
+     "substance": "氨",
+     "qKg": 4000,
+     "conc": "",
+     "area": "S3-A19"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 4250,
+     "conc": 80,
+     "area": "S3-A20"
+    }
+   ],
+   "expected": [
+    {
+     "Q": 4000,
+     "sum": 0.08,
+     "max": 0.08,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 0.752057919,
+     "triggers": "",
+     "missing": "",
+     "result": "—"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "③",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 0.752057919,
+     "triggers": "",
+     "missing": "易燃性氣體",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 400,
+     "sum": 0.08,
+     "max": 0.08,
+     "c1": "否",
+     "c5": "是",
+     "ratio": 2.935733643,
+     "triggers": "⑤",
+     "missing": "熱不安定",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 1500,
+     "sum": 0.15,
+     "max": 0.15,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "",
+     "missing": "",
+     "result": "—"
+    },
+    {
+     "Q": 5600,
+     "sum": 0.22,
+     "max": 0.12,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "",
+     "missing": "",
+     "result": "—"
+    },
+    {
+     "Q": 1500,
+     "sum": 0.15,
+     "max": 0.15,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 1.978345943,
+     "triggers": "",
+     "missing": "",
+     "result": "—"
+    },
+    {
+     "Q": 5,
+     "sum": 0.1,
+     "max": 0.1,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "",
+     "missing": "",
+     "result": "—"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "是",
+     "ratio": 1.49183553,
+     "triggers": "⑤",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 10,
+     "sum": 0.1,
+     "max": 0.1,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "",
+     "missing": "最大操作壓力",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "",
+     "missing": "",
+     "result": "—"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "④",
+     "missing": "LEL～UEL",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 1500,
+     "sum": 0.15,
+     "max": 0.15,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "",
+     "missing": "LEL～UEL",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "",
+     "missing": "最大操作壓力",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 1000,
+     "sum": 0.2,
+     "max": 0.2,
+     "c1": "否",
+     "c5": "否",
+     "ratio": "",
+     "triggers": "",
+     "missing": "高放熱、上下游壓力",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 2.475506591,
+     "triggers": "",
+     "missing": "存量表未填",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "②",
+     "missing": "存量表未填",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 400,
+     "sum": 0.08,
+     "max": 0.08,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 2.475506591,
+     "triggers": "",
+     "missing": "高放熱",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 4000,
+     "sum": 0.08,
+     "max": 0.08,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "④",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 3400,
+     "sum": 0.34,
+     "max": 0.34,
+     "c1": "是",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "①",
+     "missing": "熱不安定",
+     "result": "重大潛在危害"
+    }
+   ]
+  },
+  {
+   "file": "case_4_g.xlsx",
+   "settings": {
+    "dpBasis": "gauge",
+    "multiMode": "sum"
+   },
+   "areas": [
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 399,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S4-A1"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "是",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": 100,
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S4-A2"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 12,
+     "pDown": 1,
+     "name": "S4-A3"
+    },
+    {
+     "exo": "否",
+     "lel": "",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S4-A4"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "",
+     "T": 400,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 2,
+     "name": "S4-A5"
+    },
+    {
+     "exo": "否",
+     "lel": "是",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": "",
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 0.5,
+     "name": "S4-A6"
+    },
+    {
+     "exo": "否",
+     "lel": "",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S4-A7"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 2,
+     "name": "S4-A8"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 450,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": "",
+     "name": "S4-A9"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 399,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S4-A10"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S4-A11"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": 500,
+     "pUp": "",
+     "pDown": 1,
+     "name": "S4-A12"
+    },
+    {
+     "exo": "否",
+     "lel": "",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S4-A13"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "",
+     "flammableGas": "否",
+     "T": 450,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": 500,
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S4-A14"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "是",
+     "T": 50,
+     "AIT": 49,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S4-A15"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": "",
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S4-A16"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S4-A17"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": 100,
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S4-A18"
+    },
+    {
+     "exo": "否",
+     "lel": "",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S4-A19"
+    },
+    {
+     "exo": "",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 51,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 0.5,
+     "name": "S4-A20"
+    }
+   ],
+   "inventory": [
+    {
+     "substance": "氯",
+     "qKg": 600,
+     "conc": "",
+     "area": "S4-A1"
+    },
+    {
+     "substance": "氨",
+     "qKg": 5000,
+     "conc": "",
+     "area": "S4-A1"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 9999,
+     "conc": "",
+     "area": "S4-A1"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 1500,
+     "conc": "",
+     "area": "S4-A2"
+    },
+    {
+     "substance": "氨",
+     "qKg": 4000,
+     "conc": "",
+     "area": "S4-A3"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 1500,
+     "conc": "",
+     "area": "S4-A4"
+    },
+    {
+     "substance": "氯",
+     "qKg": 600,
+     "conc": "",
+     "area": "S4-A5"
+    },
+    {
+     "substance": "氨",
+     "qKg": 5000,
+     "conc": "",
+     "area": "S4-A5"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 9999,
+     "conc": "",
+     "area": "S4-A5"
+    },
+    {
+     "substance": "矽甲烷",
+     "qKg": 5,
+     "conc": "",
+     "area": "S4-A6"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 54257,
+     "conc": "",
+     "area": "S4-A8"
+    },
+    {
+     "substance": "氯",
+     "qKg": 500,
+     "conc": "",
+     "area": "S4-A9"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 6000,
+     "conc": 50,
+     "area": "S4-A11"
+    },
+    {
+     "substance": "光氣",
+     "qKg": 10,
+     "conc": "",
+     "area": "S4-A12"
+    },
+    {
+     "substance": "光氣",
+     "qKg": 10,
+     "conc": "",
+     "area": "S4-A13"
+    },
+    {
+     "substance": "氯",
+     "qKg": 600,
+     "conc": "",
+     "area": "S4-A14"
+    },
+    {
+     "substance": "氨",
+     "qKg": 5000,
+     "conc": "",
+     "area": "S4-A14"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 9999,
+     "conc": "",
+     "area": "S4-A14"
+    },
+    {
+     "substance": "氯",
+     "qKg": 600,
+     "conc": "",
+     "area": "S4-A15"
+    },
+    {
+     "substance": "氨",
+     "qKg": 5000,
+     "conc": "",
+     "area": "S4-A15"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 9999,
+     "conc": "",
+     "area": "S4-A15"
+    },
+    {
+     "substance": "氯",
+     "qKg": 2000,
+     "conc": 50,
+     "area": "S4-A16"
+    },
+    {
+     "substance": "氯",
+     "qKg": 500,
+     "conc": "",
+     "area": "S4-A17"
+    },
+    {
+     "substance": "氯",
+     "qKg": 600,
+     "conc": "",
+     "area": "S4-A19"
+    },
+    {
+     "substance": "氨",
+     "qKg": 5000,
+     "conc": "",
+     "area": "S4-A19"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 9999,
+     "conc": "",
+     "area": "S4-A19"
+    },
+    {
+     "substance": "甲苯",
+     "qKg": 81332,
+     "conc": "",
+     "area": "S4-A20"
+    }
+   ],
+   "expected": [
+    {
+     "Q": 5600,
+     "sum": 0.22,
+     "max": 0.12,
+     "c1": "是",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "①",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 1500,
+     "sum": 0.15,
+     "max": 0.15,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "④⑥",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 4000,
+     "sum": 0.08,
+     "max": 0.08,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 12,
+     "triggers": "⑦",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 1500,
+     "sum": 0.15,
+     "max": 0.15,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "",
+     "missing": "LEL～UEL",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 5600,
+     "sum": 0.22,
+     "max": 0.12,
+     "c1": "是",
+     "c5": "否",
+     "ratio": 1,
+     "triggers": "①",
+     "missing": "易燃性氣體",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 5,
+     "sum": 0.1,
+     "max": 0.1,
+     "c1": "否",
+     "c5": "",
+     "ratio": 4,
+     "triggers": "③⑦",
+     "missing": "T／A.I.T.",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "",
+     "missing": "存量表未填、LEL～UEL",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 1,
+     "triggers": "",
+     "missing": "",
+     "result": "—"
+    },
+    {
+     "Q": 500,
+     "sum": 0.1,
+     "max": 0.1,
+     "c1": "否",
+     "c5": "是",
+     "ratio": "",
+     "triggers": "⑤",
+     "missing": "上下游壓力",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "",
+     "missing": "存量表未填",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 3000,
+     "sum": 0.3,
+     "max": 0.3,
+     "c1": "是",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "①",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 10,
+     "sum": 0.1,
+     "max": 0.1,
+     "c1": "否",
+     "c5": "否",
+     "ratio": "",
+     "triggers": "⑥",
+     "missing": "上下游壓力",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 10,
+     "sum": 0.1,
+     "max": 0.1,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "",
+     "missing": "LEL～UEL",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 5600,
+     "sum": 0.22,
+     "max": 0.12,
+     "c1": "是",
+     "c5": "是",
+     "ratio": 2,
+     "triggers": "①⑤⑥",
+     "missing": "熱不安定",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 5600,
+     "sum": 0.22,
+     "max": 0.12,
+     "c1": "是",
+     "c5": "是",
+     "ratio": 2,
+     "triggers": "①⑤",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 1000,
+     "sum": 0.2,
+     "max": 0.2,
+     "c1": "否",
+     "c5": "",
+     "ratio": 2,
+     "triggers": "",
+     "missing": "T／A.I.T.",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 500,
+     "sum": 0.1,
+     "max": 0.1,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "",
+     "missing": "",
+     "result": "—"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "⑥",
+     "missing": "存量表未填",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 5600,
+     "sum": 0.22,
+     "max": 0.12,
+     "c1": "是",
+     "c5": "否",
+     "ratio": 2,
+     "triggers": "①",
+     "missing": "LEL～UEL",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 4,
+     "triggers": "⑦",
+     "missing": "高放熱",
+     "result": "重大潛在危害"
+    }
+   ]
+  },
+  {
+   "file": "case_4_a.xlsx",
+   "settings": {
+    "dpBasis": "absolute",
+    "multiMode": "max"
+   },
+   "areas": [
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 399,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S4-A1"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "是",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": 100,
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S4-A2"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 12,
+     "pDown": 1,
+     "name": "S4-A3"
+    },
+    {
+     "exo": "否",
+     "lel": "",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S4-A4"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "",
+     "T": 400,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 2,
+     "name": "S4-A5"
+    },
+    {
+     "exo": "否",
+     "lel": "是",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": "",
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 0.5,
+     "name": "S4-A6"
+    },
+    {
+     "exo": "否",
+     "lel": "",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S4-A7"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 2,
+     "name": "S4-A8"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 450,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": "",
+     "name": "S4-A9"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 399,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S4-A10"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S4-A11"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": 500,
+     "pUp": "",
+     "pDown": 1,
+     "name": "S4-A12"
+    },
+    {
+     "exo": "否",
+     "lel": "",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S4-A13"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "",
+     "flammableGas": "否",
+     "T": 450,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": 500,
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S4-A14"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "是",
+     "T": 50,
+     "AIT": 49,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S4-A15"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": "",
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S4-A16"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S4-A17"
+    },
+    {
+     "exo": "否",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": 100,
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S4-A18"
+    },
+    {
+     "exo": "否",
+     "lel": "",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 400,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 1,
+     "name": "S4-A19"
+    },
+    {
+     "exo": "",
+     "lel": "否",
+     "unstable": "否",
+     "flammableGas": "否",
+     "T": 50,
+     "AIT": 51,
+     "P": 1,
+     "vacuum": "",
+     "pUp": 2,
+     "pDown": 0.5,
+     "name": "S4-A20"
+    }
+   ],
+   "inventory": [
+    {
+     "substance": "氯",
+     "qKg": 600,
+     "conc": "",
+     "area": "S4-A1"
+    },
+    {
+     "substance": "氨",
+     "qKg": 5000,
+     "conc": "",
+     "area": "S4-A1"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 9999,
+     "conc": "",
+     "area": "S4-A1"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 1500,
+     "conc": "",
+     "area": "S4-A2"
+    },
+    {
+     "substance": "氨",
+     "qKg": 4000,
+     "conc": "",
+     "area": "S4-A3"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 1500,
+     "conc": "",
+     "area": "S4-A4"
+    },
+    {
+     "substance": "氯",
+     "qKg": 600,
+     "conc": "",
+     "area": "S4-A5"
+    },
+    {
+     "substance": "氨",
+     "qKg": 5000,
+     "conc": "",
+     "area": "S4-A5"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 9999,
+     "conc": "",
+     "area": "S4-A5"
+    },
+    {
+     "substance": "矽甲烷",
+     "qKg": 5,
+     "conc": "",
+     "area": "S4-A6"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 54257,
+     "conc": "",
+     "area": "S4-A8"
+    },
+    {
+     "substance": "氯",
+     "qKg": 500,
+     "conc": "",
+     "area": "S4-A9"
+    },
+    {
+     "substance": "環氧丙烷",
+     "qKg": 6000,
+     "conc": 50,
+     "area": "S4-A11"
+    },
+    {
+     "substance": "光氣",
+     "qKg": 10,
+     "conc": "",
+     "area": "S4-A12"
+    },
+    {
+     "substance": "光氣",
+     "qKg": 10,
+     "conc": "",
+     "area": "S4-A13"
+    },
+    {
+     "substance": "氯",
+     "qKg": 600,
+     "conc": "",
+     "area": "S4-A14"
+    },
+    {
+     "substance": "氨",
+     "qKg": 5000,
+     "conc": "",
+     "area": "S4-A14"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 9999,
+     "conc": "",
+     "area": "S4-A14"
+    },
+    {
+     "substance": "氯",
+     "qKg": 600,
+     "conc": "",
+     "area": "S4-A15"
+    },
+    {
+     "substance": "氨",
+     "qKg": 5000,
+     "conc": "",
+     "area": "S4-A15"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 9999,
+     "conc": "",
+     "area": "S4-A15"
+    },
+    {
+     "substance": "氯",
+     "qKg": 2000,
+     "conc": 50,
+     "area": "S4-A16"
+    },
+    {
+     "substance": "氯",
+     "qKg": 500,
+     "conc": "",
+     "area": "S4-A17"
+    },
+    {
+     "substance": "氯",
+     "qKg": 600,
+     "conc": "",
+     "area": "S4-A19"
+    },
+    {
+     "substance": "氨",
+     "qKg": 5000,
+     "conc": "",
+     "area": "S4-A19"
+    },
+    {
+     "substance": "甲醇",
+     "qKg": 9999,
+     "conc": "",
+     "area": "S4-A19"
+    },
+    {
+     "substance": "甲苯",
+     "qKg": 81332,
+     "conc": "",
+     "area": "S4-A20"
+    }
+   ],
+   "expected": [
+    {
+     "Q": 5600,
+     "sum": 0.22,
+     "max": 0.12,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "",
+     "missing": "",
+     "result": "—"
+    },
+    {
+     "Q": 1500,
+     "sum": 0.15,
+     "max": 0.15,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "④⑥",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 4000,
+     "sum": 0.08,
+     "max": 0.08,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 6.410190832,
+     "triggers": "⑦",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 1500,
+     "sum": 0.15,
+     "max": 0.15,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "",
+     "missing": "LEL～UEL",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 5600,
+     "sum": 0.22,
+     "max": 0.12,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 1,
+     "triggers": "",
+     "missing": "易燃性氣體",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 5,
+     "sum": 0.1,
+     "max": 0.1,
+     "c1": "否",
+     "c5": "",
+     "ratio": 1.978345943,
+     "triggers": "③",
+     "missing": "T／A.I.T.",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "",
+     "missing": "存量表未填、LEL～UEL",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 1,
+     "triggers": "",
+     "missing": "",
+     "result": "—"
+    },
+    {
+     "Q": 500,
+     "sum": 0.1,
+     "max": 0.1,
+     "c1": "否",
+     "c5": "是",
+     "ratio": "",
+     "triggers": "⑤",
+     "missing": "上下游壓力",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "",
+     "missing": "存量表未填",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 3000,
+     "sum": 0.3,
+     "max": 0.3,
+     "c1": "是",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "①",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 10,
+     "sum": 0.1,
+     "max": 0.1,
+     "c1": "否",
+     "c5": "否",
+     "ratio": "",
+     "triggers": "⑥",
+     "missing": "上下游壓力",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 10,
+     "sum": 0.1,
+     "max": 0.1,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "",
+     "missing": "LEL～UEL",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 5600,
+     "sum": 0.22,
+     "max": 0.12,
+     "c1": "否",
+     "c5": "是",
+     "ratio": 1.49183553,
+     "triggers": "⑤⑥",
+     "missing": "熱不安定",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 5600,
+     "sum": 0.22,
+     "max": 0.12,
+     "c1": "否",
+     "c5": "是",
+     "ratio": 1.49183553,
+     "triggers": "⑤",
+     "missing": "",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 1000,
+     "sum": 0.2,
+     "max": 0.2,
+     "c1": "否",
+     "c5": "",
+     "ratio": 1.49183553,
+     "triggers": "",
+     "missing": "T／A.I.T.",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 500,
+     "sum": 0.1,
+     "max": 0.1,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "",
+     "missing": "",
+     "result": "—"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "⑥",
+     "missing": "存量表未填",
+     "result": "重大潛在危害"
+    },
+    {
+     "Q": 5600,
+     "sum": 0.22,
+     "max": 0.12,
+     "c1": "否",
+     "c5": "否",
+     "ratio": 1.49183553,
+     "triggers": "",
+     "missing": "LEL～UEL",
+     "result": "資料不完整"
+    },
+    {
+     "Q": 0,
+     "sum": 0,
+     "max": 0,
+     "c1": "不適用",
+     "c5": "否",
+     "ratio": 1.978345943,
+     "triggers": "",
+     "missing": "高放熱",
+     "result": "資料不完整"
+    }
+   ]
+  }
+ ]
+}
